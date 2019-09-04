@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1887677631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80120eda20cc1e1a7ceb1cf7733fd575
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4bd52bbeee624c398f7ba6676943ccb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b834c64b8de5b4c48bf323489d74b75f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e50999d11494ef4881e6db417614e62, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Parts/Weapon/Weapon.prefab
+- Assets/Prefabs/Parts/Weapon/WeaponMat.mat
+Dependencies:
+- E:/USB_Backup/Creajeux/Annee3/Gameplay/Creasiege/AssetBundles/StandaloneWindows/shared

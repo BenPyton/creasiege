@@ -1,0 +1,74 @@
+{
+  "version": "0.0.1",
+  "name": "test",
+  "parts": [
+    {
+      "id": 1,
+      "prefabName": "Weapon",
+      "partTargetId": 0,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": [
+        {
+          "type": 1,
+          "keyValue": 0,
+          "floatValue": 0.0,
+          "boolValue": false
+        },
+        {
+          "type": 2,
+          "keyValue": 0,
+          "floatValue": 0.0,
+          "boolValue": false
+        },
+        {
+          "type": 2,
+          "keyValue": 0,
+          "floatValue": 0.0,
+          "boolValue": false
+        },
+        {
+          "type": 3,
+          "keyValue": 107,
+          "floatValue": 0.0,
+          "boolValue": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "prefabName": "Weapon",
+      "partTargetId": 0,
+      "rootJoint": 0,
+      "constraintJoint": 0,
+      "angle": 0.0,
+      "properties": [
+        {
+          "type": 1,
+          "keyValue": 0,
+          "floatValue": 0.0,
+          "boolValue": true
+        },
+        {
+          "type": 2,
+          "keyValue": 0,
+          "floatValue": 0.0,
+          "boolValue": false
+        },
+        {
+          "type": 2,
+          "keyValue": 0,
+          "floatValue": 0.0,
+          "boolValue": false
+        },
+        {
+          "type": 3,
+          "keyValue": 0,
+          "floatValue": 0.0,
+          "boolValue": false
+        }
+      ]
+    }
+  ]
+}

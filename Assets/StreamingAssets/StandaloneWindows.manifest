@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3489038185
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shared
+      Dependencies: {}
+    Info_1:
+      Name: levels/level01
+      Dependencies:
+        Dependency_0: shared
+    Info_2:
+      Name: parts/00_bloc
+      Dependencies:
+        Dependency_0: shared
+    Info_3:
+      Name: parts/01_slopeedge
+      Dependencies:
+        Dependency_0: shared
+    Info_4:
+      Name: parts/02_roundedge
+      Dependencies:
+        Dependency_0: shared
+    Info_5:
+      Name: parts/03_thruster
+      Dependencies:
+        Dependency_0: shared
+    Info_6:
+      Name: parts/04_weapon
+      Dependencies:
+        Dependency_0: shared
+    Info_7:
+      Name: parts/05_octocylinder
+      Dependencies:
+        Dependency_0: shared
+    Info_8:
+      Name: parts/06_octosphere
+      Dependencies:
+        Dependency_0: shared
+    Info_9:
+      Name: levels/level02
+      Dependencies:
+        Dependency_0: shared
+    Info_10:
+      Name: levels/level03
+      Dependencies:
+        Dependency_0: shared

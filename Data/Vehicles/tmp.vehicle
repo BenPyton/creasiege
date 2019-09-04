@@ -1,0 +1,1652 @@
+{
+    "version": "0.0.1",
+    "name": "Big Vehicle 2",
+    "parts": [
+        {
+            "id": 1,
+            "prefabName": "Bloc",
+            "partTargetId": 0,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 2,
+            "prefabName": "Bloc",
+            "partTargetId": 0,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 3,
+            "prefabName": "Bloc",
+            "partTargetId": 0,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 4,
+            "prefabName": "Bloc",
+            "partTargetId": 0,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 5,
+            "prefabName": "RoundEdge",
+            "partTargetId": 1,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 6,
+            "prefabName": "RoundEdge",
+            "partTargetId": 2,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 7,
+            "prefabName": "RoundEdge",
+            "partTargetId": 4,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 8,
+            "prefabName": "RoundEdge",
+            "partTargetId": 3,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 90.0,
+            "properties": []
+        },
+        {
+            "id": 9,
+            "prefabName": "Thruster",
+            "partTargetId": 0,
+            "rootJoint": 0,
+            "constraintJoint": 0,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "prefabName": "Bloc",
+            "partTargetId": 0,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 11,
+            "prefabName": "Thruster",
+            "partTargetId": 10,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "prefabName": "Thruster",
+            "partTargetId": 10,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "prefabName": "Thruster",
+            "partTargetId": 10,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "prefabName": "Thruster",
+            "partTargetId": 10,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "prefabName": "RoundEdge",
+            "partTargetId": 1,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 16,
+            "prefabName": "RoundEdge",
+            "partTargetId": 2,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 17,
+            "prefabName": "RoundEdge",
+            "partTargetId": 2,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 18,
+            "prefabName": "RoundEdge",
+            "partTargetId": 3,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 19,
+            "prefabName": "Bloc",
+            "partTargetId": 10,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 20,
+            "prefabName": "Bloc",
+            "partTargetId": 19,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 21,
+            "prefabName": "Bloc",
+            "partTargetId": 20,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 22,
+            "prefabName": "Bloc",
+            "partTargetId": 21,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 23,
+            "prefabName": "Bloc",
+            "partTargetId": 21,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 24,
+            "prefabName": "Bloc",
+            "partTargetId": 21,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 25,
+            "prefabName": "Bloc",
+            "partTargetId": 21,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 26,
+            "prefabName": "RoundEdge",
+            "partTargetId": 24,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 27,
+            "prefabName": "RoundEdge",
+            "partTargetId": 25,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 28,
+            "prefabName": "RoundEdge",
+            "partTargetId": 25,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 90.0,
+            "properties": []
+        },
+        {
+            "id": 29,
+            "prefabName": "RoundEdge",
+            "partTargetId": 23,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 90.0,
+            "properties": []
+        },
+        {
+            "id": 30,
+            "prefabName": "Thruster",
+            "partTargetId": 19,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "prefabName": "Thruster",
+            "partTargetId": 20,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "prefabName": "Thruster",
+            "partTargetId": 19,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "prefabName": "Thruster",
+            "partTargetId": 20,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "prefabName": "Thruster",
+            "partTargetId": 19,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "prefabName": "Thruster",
+            "partTargetId": 20,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "prefabName": "Thruster",
+            "partTargetId": 19,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "prefabName": "Thruster",
+            "partTargetId": 20,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "prefabName": "Bloc",
+            "partTargetId": 23,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 39,
+            "prefabName": "Bloc",
+            "partTargetId": 38,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 40,
+            "prefabName": "Bloc",
+            "partTargetId": 21,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 41,
+            "prefabName": "Bloc",
+            "partTargetId": 40,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 42,
+            "prefabName": "Bloc",
+            "partTargetId": 41,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 43,
+            "prefabName": "Bloc",
+            "partTargetId": 22,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 44,
+            "prefabName": "Bloc",
+            "partTargetId": 43,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 45,
+            "prefabName": "Bloc",
+            "partTargetId": 40,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 46,
+            "prefabName": "Bloc",
+            "partTargetId": 45,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 47,
+            "prefabName": "Bloc",
+            "partTargetId": 45,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 48,
+            "prefabName": "Bloc",
+            "partTargetId": 38,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 49,
+            "prefabName": "Bloc",
+            "partTargetId": 26,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 50,
+            "prefabName": "Bloc",
+            "partTargetId": 27,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 51,
+            "prefabName": "RoundEdge",
+            "partTargetId": 39,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 52,
+            "prefabName": "RoundEdge",
+            "partTargetId": 42,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 53,
+            "prefabName": "RoundEdge",
+            "partTargetId": 44,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 54,
+            "prefabName": "RoundEdge",
+            "partTargetId": 48,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 55,
+            "prefabName": "RoundEdge",
+            "partTargetId": 44,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 56,
+            "prefabName": "RoundEdge",
+            "partTargetId": 47,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 57,
+            "prefabName": "RoundEdge",
+            "partTargetId": 50,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 90.0,
+            "properties": []
+        },
+        {
+            "id": 58,
+            "prefabName": "RoundEdge",
+            "partTargetId": 42,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 59,
+            "prefabName": "Bloc",
+            "partTargetId": 39,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 60,
+            "prefabName": "Bloc",
+            "partTargetId": 59,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 61,
+            "prefabName": "Bloc",
+            "partTargetId": 54,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 62,
+            "prefabName": "Bloc",
+            "partTargetId": 57,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 63,
+            "prefabName": "Bloc",
+            "partTargetId": 62,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 64,
+            "prefabName": "Bloc",
+            "partTargetId": 56,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 65,
+            "prefabName": "Slope",
+            "partTargetId": 61,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 66,
+            "prefabName": "Slope",
+            "partTargetId": 59,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 67,
+            "prefabName": "Slope",
+            "partTargetId": 60,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 68,
+            "prefabName": "Slope",
+            "partTargetId": 62,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 69,
+            "prefabName": "Slope",
+            "partTargetId": 63,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 70,
+            "prefabName": "Slope",
+            "partTargetId": 64,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 90.0,
+            "properties": []
+        },
+        {
+            "id": 71,
+            "prefabName": "Bloc",
+            "partTargetId": 65,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 72,
+            "prefabName": "Bloc",
+            "partTargetId": 71,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 73,
+            "prefabName": "Bloc",
+            "partTargetId": 72,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 74,
+            "prefabName": "Bloc",
+            "partTargetId": 64,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 75,
+            "prefabName": "Bloc",
+            "partTargetId": 74,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 76,
+            "prefabName": "Bloc",
+            "partTargetId": 74,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 77,
+            "prefabName": "Bloc",
+            "partTargetId": 76,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 78,
+            "prefabName": "Bloc",
+            "partTargetId": 76,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 79,
+            "prefabName": "Bloc",
+            "partTargetId": 78,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 80,
+            "prefabName": "Bloc",
+            "partTargetId": 43,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 81,
+            "prefabName": "Bloc",
+            "partTargetId": 40,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 82,
+            "prefabName": "Bloc",
+            "partTargetId": 81,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 83,
+            "prefabName": "Thruster",
+            "partTargetId": 82,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "prefabName": "Thruster",
+            "partTargetId": 81,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "prefabName": "Thruster",
+            "partTargetId": 80,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "prefabName": "Bloc",
+            "partTargetId": 48,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 87,
+            "prefabName": "Bloc",
+            "partTargetId": 86,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 88,
+            "prefabName": "Bloc",
+            "partTargetId": 87,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 89,
+            "prefabName": "Bloc",
+            "partTargetId": 88,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 90,
+            "prefabName": "Bloc",
+            "partTargetId": 82,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 91,
+            "prefabName": "Bloc",
+            "partTargetId": 78,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 92,
+            "prefabName": "Bloc",
+            "partTargetId": 74,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 93,
+            "prefabName": "Bloc",
+            "partTargetId": 80,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 94,
+            "prefabName": "Bloc",
+            "partTargetId": 86,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 95,
+            "prefabName": "Slope",
+            "partTargetId": 61,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 90.0,
+            "properties": []
+        },
+        {
+            "id": 96,
+            "prefabName": "Slope",
+            "partTargetId": 94,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 97,
+            "prefabName": "Slope",
+            "partTargetId": 92,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 98,
+            "prefabName": "Slope",
+            "partTargetId": 64,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 99,
+            "prefabName": "Slope",
+            "partTargetId": 62,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 90.0,
+            "properties": []
+        },
+        {
+            "id": 100,
+            "prefabName": "Slope",
+            "partTargetId": 60,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 101,
+            "prefabName": "Slope",
+            "partTargetId": 89,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 180.0,
+            "properties": []
+        },
+        {
+            "id": 102,
+            "prefabName": "Slope",
+            "partTargetId": 91,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 103,
+            "prefabName": "Bloc",
+            "partTargetId": 90,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 104,
+            "prefabName": "Bloc",
+            "partTargetId": 103,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 105,
+            "prefabName": "Bloc",
+            "partTargetId": 104,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 106,
+            "prefabName": "Bloc",
+            "partTargetId": 105,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 107,
+            "prefabName": "Bloc",
+            "partTargetId": 93,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 108,
+            "prefabName": "Bloc",
+            "partTargetId": 107,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 109,
+            "prefabName": "Bloc",
+            "partTargetId": 108,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 110,
+            "prefabName": "Bloc",
+            "partTargetId": 109,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 111,
+            "prefabName": "Weapon",
+            "partTargetId": 109,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 1,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": true
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "prefabName": "Weapon",
+            "partTargetId": 110,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 1,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": true
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "prefabName": "Weapon",
+            "partTargetId": 110,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 1,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": true
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "prefabName": "Weapon",
+            "partTargetId": 109,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 1,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": true
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "prefabName": "Weapon",
+            "partTargetId": 110,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 1,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": true
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "prefabName": "Weapon",
+            "partTargetId": 105,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 1,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": true
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "prefabName": "Weapon",
+            "partTargetId": 106,
+            "rootJoint": 0,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 1,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": true
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "prefabName": "Weapon",
+            "partTargetId": 106,
+            "rootJoint": 0,
+            "constraintJoint": 1,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 1,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": true
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "prefabName": "Weapon",
+            "partTargetId": 106,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 1,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": true
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "prefabName": "Weapon",
+            "partTargetId": 105,
+            "rootJoint": 0,
+            "constraintJoint": 2,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 1,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": true
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 2,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                },
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "prefabName": "Thruster",
+            "partTargetId": 104,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "prefabName": "Thruster",
+            "partTargetId": 105,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "prefabName": "Thruster",
+            "partTargetId": 106,
+            "rootJoint": 0,
+            "constraintJoint": 5,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "prefabName": "Thruster",
+            "partTargetId": 108,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "prefabName": "Thruster",
+            "partTargetId": 109,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "prefabName": "Thruster",
+            "partTargetId": 110,
+            "rootJoint": 0,
+            "constraintJoint": 4,
+            "angle": 0.0,
+            "properties": [
+                {
+                    "type": 3,
+                    "keyValue": 0,
+                    "floatValue": 0.0,
+                    "boolValue": false
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "prefabName": "RoundEdge",
+            "partTargetId": 26,
+            "rootJoint": 2,
+            "constraintJoint": 2,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 128,
+            "prefabName": "RoundEdge",
+            "partTargetId": 127,
+            "rootJoint": 2,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 129,
+            "prefabName": "RoundEdge",
+            "partTargetId": 128,
+            "rootJoint": 2,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 130,
+            "prefabName": "RoundEdge",
+            "partTargetId": 27,
+            "rootJoint": 2,
+            "constraintJoint": 2,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 131,
+            "prefabName": "RoundEdge",
+            "partTargetId": 130,
+            "rootJoint": 2,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 132,
+            "prefabName": "RoundEdge",
+            "partTargetId": 131,
+            "rootJoint": 2,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 133,
+            "prefabName": "RoundEdge",
+            "partTargetId": 28,
+            "rootJoint": 2,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 134,
+            "prefabName": "RoundEdge",
+            "partTargetId": 133,
+            "rootJoint": 2,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 135,
+            "prefabName": "RoundEdge",
+            "partTargetId": 134,
+            "rootJoint": 2,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 136,
+            "prefabName": "RoundEdge",
+            "partTargetId": 29,
+            "rootJoint": 2,
+            "constraintJoint": 2,
+            "angle": 270.0,
+            "properties": []
+        },
+        {
+            "id": 137,
+            "prefabName": "RoundEdge",
+            "partTargetId": 136,
+            "rootJoint": 2,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        },
+        {
+            "id": 138,
+            "prefabName": "RoundEdge",
+            "partTargetId": 137,
+            "rootJoint": 2,
+            "constraintJoint": 3,
+            "angle": 0.0,
+            "properties": []
+        }
+    ]
+}

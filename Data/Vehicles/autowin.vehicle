@@ -1,0 +1,1518 @@
+{
+  "version": "0.0.1",
+  "name": "autowin",
+  "parts": [
+    {
+      "id": 1,
+      "prefabName": "Bloc",
+      "partTargetId": 0,
+      "rootJoint": 0,
+      "constraintJoint": 0,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 2,
+      "prefabName": "Bloc",
+      "partTargetId": 1,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 3,
+      "prefabName": "Bloc",
+      "partTargetId": 2,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 4,
+      "prefabName": "Bloc",
+      "partTargetId": 3,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 5,
+      "prefabName": "Bloc",
+      "partTargetId": 4,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 6,
+      "prefabName": "Bloc",
+      "partTargetId": 5,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 7,
+      "prefabName": "Bloc",
+      "partTargetId": 6,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 8,
+      "prefabName": "Bloc",
+      "partTargetId": 7,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 9,
+      "prefabName": "Bloc",
+      "partTargetId": 8,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 10,
+      "prefabName": "Bloc",
+      "partTargetId": 9,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 11,
+      "prefabName": "Bloc",
+      "partTargetId": 10,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 12,
+      "prefabName": "Bloc",
+      "partTargetId": 11,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 13,
+      "prefabName": "Bloc",
+      "partTargetId": 12,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 14,
+      "prefabName": "Bloc",
+      "partTargetId": 13,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 15,
+      "prefabName": "Bloc",
+      "partTargetId": 14,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 16,
+      "prefabName": "Bloc",
+      "partTargetId": 15,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 17,
+      "prefabName": "Bloc",
+      "partTargetId": 16,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 18,
+      "prefabName": "Bloc",
+      "partTargetId": 17,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 19,
+      "prefabName": "Bloc",
+      "partTargetId": 18,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 20,
+      "prefabName": "Bloc",
+      "partTargetId": 19,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 21,
+      "prefabName": "Bloc",
+      "partTargetId": 20,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 22,
+      "prefabName": "Bloc",
+      "partTargetId": 21,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 23,
+      "prefabName": "Bloc",
+      "partTargetId": 22,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 24,
+      "prefabName": "Bloc",
+      "partTargetId": 23,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 25,
+      "prefabName": "Bloc",
+      "partTargetId": 24,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 26,
+      "prefabName": "Bloc",
+      "partTargetId": 25,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 27,
+      "prefabName": "Bloc",
+      "partTargetId": 26,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 28,
+      "prefabName": "Bloc",
+      "partTargetId": 27,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 29,
+      "prefabName": "Bloc",
+      "partTargetId": 28,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 30,
+      "prefabName": "Bloc",
+      "partTargetId": 29,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 31,
+      "prefabName": "Bloc",
+      "partTargetId": 30,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 32,
+      "prefabName": "Bloc",
+      "partTargetId": 31,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 33,
+      "prefabName": "Bloc",
+      "partTargetId": 32,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 34,
+      "prefabName": "Bloc",
+      "partTargetId": 33,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 35,
+      "prefabName": "Bloc",
+      "partTargetId": 34,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 36,
+      "prefabName": "Bloc",
+      "partTargetId": 35,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 37,
+      "prefabName": "Bloc",
+      "partTargetId": 36,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 38,
+      "prefabName": "Bloc",
+      "partTargetId": 37,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 39,
+      "prefabName": "Bloc",
+      "partTargetId": 38,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 40,
+      "prefabName": "Bloc",
+      "partTargetId": 39,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 41,
+      "prefabName": "Bloc",
+      "partTargetId": 40,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 42,
+      "prefabName": "Bloc",
+      "partTargetId": 41,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 43,
+      "prefabName": "Bloc",
+      "partTargetId": 42,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 44,
+      "prefabName": "Bloc",
+      "partTargetId": 43,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 45,
+      "prefabName": "Bloc",
+      "partTargetId": 44,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0,
+      "properties": []
+    },
+    {
+      "id": 46,
+      "prefabName": "Bloc",
+      "partTargetId": 45,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 47,
+      "prefabName": "Bloc",
+      "partTargetId": 46,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 48,
+      "prefabName": "Bloc",
+      "partTargetId": 47,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 49,
+      "prefabName": "Bloc",
+      "partTargetId": 48,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 50,
+      "prefabName": "Bloc",
+      "partTargetId": 49,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 51,
+      "prefabName": "Bloc",
+      "partTargetId": 49,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 52,
+      "prefabName": "Bloc",
+      "partTargetId": 51,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 53,
+      "prefabName": "Bloc",
+      "partTargetId": 52,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 54,
+      "prefabName": "Bloc",
+      "partTargetId": 53,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 55,
+      "prefabName": "Bloc",
+      "partTargetId": 54,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 56,
+      "prefabName": "Bloc",
+      "partTargetId": 55,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 57,
+      "prefabName": "Bloc",
+      "partTargetId": 56,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 58,
+      "prefabName": "Bloc",
+      "partTargetId": 57,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 59,
+      "prefabName": "Bloc",
+      "partTargetId": 58,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 60,
+      "prefabName": "Bloc",
+      "partTargetId": 59,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 61,
+      "prefabName": "Bloc",
+      "partTargetId": 60,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 62,
+      "prefabName": "Bloc",
+      "partTargetId": 61,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 63,
+      "prefabName": "Bloc",
+      "partTargetId": 62,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 64,
+      "prefabName": "Bloc",
+      "partTargetId": 63,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 65,
+      "prefabName": "Bloc",
+      "partTargetId": 64,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 66,
+      "prefabName": "Bloc",
+      "partTargetId": 65,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 67,
+      "prefabName": "Bloc",
+      "partTargetId": 66,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 68,
+      "prefabName": "Bloc",
+      "partTargetId": 67,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 69,
+      "prefabName": "Bloc",
+      "partTargetId": 68,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 70,
+      "prefabName": "Bloc",
+      "partTargetId": 69,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 71,
+      "prefabName": "Bloc",
+      "partTargetId": 70,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 72,
+      "prefabName": "Bloc",
+      "partTargetId": 71,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 73,
+      "prefabName": "Bloc",
+      "partTargetId": 72,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 74,
+      "prefabName": "Bloc",
+      "partTargetId": 73,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 75,
+      "prefabName": "Bloc",
+      "partTargetId": 74,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 76,
+      "prefabName": "Bloc",
+      "partTargetId": 75,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 77,
+      "prefabName": "Bloc",
+      "partTargetId": 76,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 78,
+      "prefabName": "Bloc",
+      "partTargetId": 77,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 79,
+      "prefabName": "Bloc",
+      "partTargetId": 78,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 80,
+      "prefabName": "Bloc",
+      "partTargetId": 79,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 81,
+      "prefabName": "Bloc",
+      "partTargetId": 80,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 82,
+      "prefabName": "Bloc",
+      "partTargetId": 81,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 83,
+      "prefabName": "Bloc",
+      "partTargetId": 82,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 84,
+      "prefabName": "Bloc",
+      "partTargetId": 83,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 85,
+      "prefabName": "Bloc",
+      "partTargetId": 84,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 86,
+      "prefabName": "Bloc",
+      "partTargetId": 85,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 87,
+      "prefabName": "Bloc",
+      "partTargetId": 86,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 88,
+      "prefabName": "Bloc",
+      "partTargetId": 87,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 89,
+      "prefabName": "Bloc",
+      "partTargetId": 88,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 90,
+      "prefabName": "Bloc",
+      "partTargetId": 89,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 91,
+      "prefabName": "Bloc",
+      "partTargetId": 90,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 92,
+      "prefabName": "Bloc",
+      "partTargetId": 91,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 93,
+      "prefabName": "Bloc",
+      "partTargetId": 92,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 94,
+      "prefabName": "Bloc",
+      "partTargetId": 93,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 95,
+      "prefabName": "Bloc",
+      "partTargetId": 94,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 96,
+      "prefabName": "Bloc",
+      "partTargetId": 95,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 97,
+      "prefabName": "Bloc",
+      "partTargetId": 96,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 98,
+      "prefabName": "Bloc",
+      "partTargetId": 97,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 99,
+      "prefabName": "Bloc",
+      "partTargetId": 98,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 100,
+      "prefabName": "Bloc",
+      "partTargetId": 99,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 101,
+      "prefabName": "Bloc",
+      "partTargetId": 100,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 102,
+      "prefabName": "Bloc",
+      "partTargetId": 101,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 103,
+      "prefabName": "Bloc",
+      "partTargetId": 102,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 104,
+      "prefabName": "Bloc",
+      "partTargetId": 103,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 105,
+      "prefabName": "Bloc",
+      "partTargetId": 104,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 106,
+      "prefabName": "Bloc",
+      "partTargetId": 105,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 107,
+      "prefabName": "Bloc",
+      "partTargetId": 106,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 108,
+      "prefabName": "Bloc",
+      "partTargetId": 107,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 109,
+      "prefabName": "Bloc",
+      "partTargetId": 108,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 110,
+      "prefabName": "Bloc",
+      "partTargetId": 109,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 111,
+      "prefabName": "Bloc",
+      "partTargetId": 110,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 112,
+      "prefabName": "Bloc",
+      "partTargetId": 111,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 113,
+      "prefabName": "Bloc",
+      "partTargetId": 112,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 114,
+      "prefabName": "Bloc",
+      "partTargetId": 113,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 115,
+      "prefabName": "Bloc",
+      "partTargetId": 114,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 116,
+      "prefabName": "Bloc",
+      "partTargetId": 115,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 117,
+      "prefabName": "Bloc",
+      "partTargetId": 116,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 118,
+      "prefabName": "Bloc",
+      "partTargetId": 117,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 119,
+      "prefabName": "Bloc",
+      "partTargetId": 118,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 120,
+      "prefabName": "Bloc",
+      "partTargetId": 119,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 121,
+      "prefabName": "Bloc",
+      "partTargetId": 120,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 122,
+      "prefabName": "Bloc",
+      "partTargetId": 121,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 123,
+      "prefabName": "Bloc",
+      "partTargetId": 122,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 124,
+      "prefabName": "Bloc",
+      "partTargetId": 123,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 125,
+      "prefabName": "Bloc",
+      "partTargetId": 124,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 126,
+      "prefabName": "Bloc",
+      "partTargetId": 125,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 127,
+      "prefabName": "Bloc",
+      "partTargetId": 126,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 128,
+      "prefabName": "Bloc",
+      "partTargetId": 127,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 129,
+      "prefabName": "Bloc",
+      "partTargetId": 128,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 130,
+      "prefabName": "Bloc",
+      "partTargetId": 129,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 131,
+      "prefabName": "Bloc",
+      "partTargetId": 130,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 132,
+      "prefabName": "Bloc",
+      "partTargetId": 131,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 133,
+      "prefabName": "Bloc",
+      "partTargetId": 132,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 134,
+      "prefabName": "Bloc",
+      "partTargetId": 133,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 135,
+      "prefabName": "Bloc",
+      "partTargetId": 134,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 136,
+      "prefabName": "Bloc",
+      "partTargetId": 135,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 137,
+      "prefabName": "Bloc",
+      "partTargetId": 136,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 138,
+      "prefabName": "Bloc",
+      "partTargetId": 137,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 139,
+      "prefabName": "Bloc",
+      "partTargetId": 138,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 140,
+      "prefabName": "Bloc",
+      "partTargetId": 139,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 141,
+      "prefabName": "Bloc",
+      "partTargetId": 140,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 142,
+      "prefabName": "Bloc",
+      "partTargetId": 141,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 143,
+      "prefabName": "Bloc",
+      "partTargetId": 141,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 144,
+      "prefabName": "Bloc",
+      "partTargetId": 143,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 145,
+      "prefabName": "Bloc",
+      "partTargetId": 139,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 146,
+      "prefabName": "Bloc",
+      "partTargetId": 145,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 147,
+      "prefabName": "Bloc",
+      "partTargetId": 146,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 148,
+      "prefabName": "Bloc",
+      "partTargetId": 147,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 149,
+      "prefabName": "Bloc",
+      "partTargetId": 148,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 150,
+      "prefabName": "Bloc",
+      "partTargetId": 149,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 151,
+      "prefabName": "Bloc",
+      "partTargetId": 150,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 152,
+      "prefabName": "Bloc",
+      "partTargetId": 151,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 153,
+      "prefabName": "Bloc",
+      "partTargetId": 152,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 154,
+      "prefabName": "Bloc",
+      "partTargetId": 153,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 155,
+      "prefabName": "Bloc",
+      "partTargetId": 148,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 156,
+      "prefabName": "Bloc",
+      "partTargetId": 149,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 157,
+      "prefabName": "Bloc",
+      "partTargetId": 150,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 158,
+      "prefabName": "Bloc",
+      "partTargetId": 157,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 159,
+      "prefabName": "Bloc",
+      "partTargetId": 157,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 160,
+      "prefabName": "Bloc",
+      "partTargetId": 159,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 161,
+      "prefabName": "Bloc",
+      "partTargetId": 160,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 162,
+      "prefabName": "Bloc",
+      "partTargetId": 161,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 163,
+      "prefabName": "Bloc",
+      "partTargetId": 162,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 164,
+      "prefabName": "Bloc",
+      "partTargetId": 163,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 165,
+      "prefabName": "Bloc",
+      "partTargetId": 164,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 166,
+      "prefabName": "Bloc",
+      "partTargetId": 165,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 167,
+      "prefabName": "Bloc",
+      "partTargetId": 166,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 90.0,
+      "properties": []
+    },
+    {
+      "id": 168,
+      "prefabName": "Bloc",
+      "partTargetId": 167,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 90.0,
+      "properties": []
+    }
+  ]
+}

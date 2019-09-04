@@ -1,0 +1,23 @@
+{
+  "levels":
+  [
+	  {
+	    "name": "First Rescue",
+	    "type": 1,
+	    "path": "level01",
+	    "description": "A person is drifting across the Space and need help to be rescued.\nYou are the one we have chosen to accomplish this mission."
+	  },
+	  {
+	    "name": "Asteroid Belt",
+	    "type": 1,
+	    "path": "level02",
+	    "description": "A spaceship has been destroyed in an asteroid belt. The driver need to be rescued and your the one on it."
+	  },
+	  {
+	    "name": "Pirates",
+	    "type": 2,
+	    "path": "level03",
+	    "description": "A pirate ship has been seen on a commercial route. You have to destroy it as soon as possible!"
+	  }
+	]
+}

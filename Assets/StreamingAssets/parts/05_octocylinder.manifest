@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 514897980
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2657ba7dee08159fcc415d0a629643b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 44f77506604f91cd9fadfc3b17422159
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fcb0f32d9e121740a388ce658914a8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b834c64b8de5b4c48bf323489d74b75f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Parts/OctoCylinder/OctoCylinderMat.mat
+- Assets/Prefabs/Parts/OctoCylinder/octocylinder.fbx
+- Assets/Prefabs/Parts/OctoCylinder/OctoCylinder.prefab
+Dependencies:
+- H:/USB_Backup/Creajeux/Annee3/Gameplay/Creasiege/AssetBundles/StandaloneWindows/shared

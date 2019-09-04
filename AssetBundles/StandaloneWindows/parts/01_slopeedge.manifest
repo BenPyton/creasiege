@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1379168590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47b87e9287d4ca8eeeec0cfbda85c7ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8aba54c192c3b034401652e4bc8f988a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fcb0f32d9e121740a388ce658914a8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b834c64b8de5b4c48bf323489d74b75f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Parts/Slope/Slope.prefab
+- Assets/Prefabs/Parts/Slope/slope.fbx
+- Assets/Prefabs/Parts/Slope/SlopeMat.mat
+Dependencies:
+- H:/USB_Backup/Creajeux/Annee3/Gameplay/Creasiege/AssetBundles/StandaloneWindows/shared

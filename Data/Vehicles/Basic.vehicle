@@ -1,0 +1,126 @@
+{
+  "version": "0.0.1",
+  "name": "Basic",
+  "parts": [
+    {
+      "id": 1,
+      "prefabName": "Bloc",
+      "partTargetId": 0,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 0.0
+    },
+    {
+      "id": 2,
+      "prefabName": "Bloc",
+      "partTargetId": 0,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 0.0
+    },
+    {
+      "id": 3,
+      "prefabName": "Bloc",
+      "partTargetId": 0,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 0.0
+    },
+    {
+      "id": 4,
+      "prefabName": "Bloc",
+      "partTargetId": 0,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 0.0
+    },
+    {
+      "id": 5,
+      "prefabName": "RoundEdge",
+      "partTargetId": 1,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 180.0
+    },
+    {
+      "id": 6,
+      "prefabName": "RoundEdge",
+      "partTargetId": 2,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 270.0
+    },
+    {
+      "id": 7,
+      "prefabName": "RoundEdge",
+      "partTargetId": 4,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 0.0
+    },
+    {
+      "id": 8,
+      "prefabName": "RoundEdge",
+      "partTargetId": 3,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 90.0
+    },
+    {
+      "id": 9,
+      "prefabName": "Thruster",
+      "partTargetId": 0,
+      "rootJoint": 0,
+      "constraintJoint": 0,
+      "angle": 0.0
+    },
+    {
+      "id": 10,
+      "prefabName": "Bloc",
+      "partTargetId": 0,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0
+    },
+    {
+      "id": 11,
+      "prefabName": "Thruster",
+      "partTargetId": 10,
+      "rootJoint": 0,
+      "constraintJoint": 2,
+      "angle": 0.0
+    },
+    {
+      "id": 12,
+      "prefabName": "Thruster",
+      "partTargetId": 10,
+      "rootJoint": 0,
+      "constraintJoint": 5,
+      "angle": 0.0
+    },
+    {
+      "id": 13,
+      "prefabName": "Thruster",
+      "partTargetId": 10,
+      "rootJoint": 0,
+      "constraintJoint": 1,
+      "angle": 0.0
+    },
+    {
+      "id": 14,
+      "prefabName": "Thruster",
+      "partTargetId": 10,
+      "rootJoint": 0,
+      "constraintJoint": 4,
+      "angle": 0.0
+    },
+    {
+      "id": 15,
+      "prefabName": "Thruster",
+      "partTargetId": 10,
+      "rootJoint": 0,
+      "constraintJoint": 3,
+      "angle": 0.0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 97436348
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34e13c320c07a88461c3d7f34fa73ba4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7db01627853b0ac0bf243478383842c9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffaea251dafcbc445abcbb9b5fb2ce1e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39e51fc36803f6646ba567192cb43a92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8091bf7b89bd644889b04dcd7e460d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ee183defbecfdb439d1cd9d5d8d7763, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/levels/Level03.unity
+Dependencies:
+- E:/USB_Backup/Creajeux/Annee3/Gameplay/Creasiege/AssetBundles/StandaloneWindows/shared
